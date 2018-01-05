@@ -1,4 +1,4 @@
-package com.tahona.bus;
+package pl.tahona.bus;
 
 import com.google.common.collect.ArrayListMultimap;
 import pl.tahona.di.ReflectionUtils;

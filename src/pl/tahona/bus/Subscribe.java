@@ -1,4 +1,4 @@
-package com.tahona.bus;
+package pl.tahona.bus;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

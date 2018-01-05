@@ -1,4 +1,4 @@
-package com.tahona.bus;
+package pl.tahona.bus;
 
 public interface EventSubscriber {
 
